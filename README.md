@@ -1,4 +1,4 @@
-# -PASTA-threat-model-framework
+# PASTA-threat-model-framework
 I helped determine whether a new shopping app was safe to launch.
 
 *Tools used Google Slides & Google Docs.*
