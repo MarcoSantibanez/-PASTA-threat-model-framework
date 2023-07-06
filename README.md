@@ -20,6 +20,8 @@ Data flow diagram
 Worksheet presented:
 
 ![image](https://github.com/MarcoSantibanez/-PASTA-threat-model-framework/assets/138132151/07ea0957-7a6d-4862-9132-54a732c5b438)
+
+
 ![image](https://github.com/MarcoSantibanez/-PASTA-threat-model-framework/assets/138132151/5cb48e2e-0831-4da0-8c8c-c6619ae99f96)
 
 Summary:
